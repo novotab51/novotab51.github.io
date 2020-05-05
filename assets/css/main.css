@@ -1,5 +1,5 @@
 @import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300");
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 
 /*
 	Identity by HTML5 UP
@@ -154,7 +154,7 @@
 
 	body, input, select, textarea {
 		color: #414f57;
-		font-family: "Montserrat", Helvetica, sans-serif;
+		font-family: 'Montserrat', sans-serif;
 		font-size: 14pt;
 		font-weight: 500;
 		line-height: 2;
